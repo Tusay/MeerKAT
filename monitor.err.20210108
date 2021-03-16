@@ -1,0 +1,769 @@
+[ 2021-01-08 09:30:21,051 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 60 antennas
+ script_status: completed
+ script_description: MHONGOOSE J1153-28 setting 1
+ active_sbs: 20201217-0010
+ Duration: 5:51:17.805945```
+[ 2021-01-08 09:30:31,054 - ERROR] Failed to push to Slack
+[ 2021-01-08 09:30:31,054 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3350>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+[ 2021-01-08 11:50:55,452 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 16 antennas
+ active_sbs: 20210108-0001
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:40.396354```
+[ 2021-01-08 11:59:24,502 - ERROR] Failed to push to Slack
+[ 2021-01-08 11:59:24,502 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3990>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 12:10:57,853 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 56 antennas
+ active_sbs: 20210108-0002
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:07:17.196625```
+[ 2021-01-08 12:19:26,805 - ERROR] Failed to push to Slack
+[ 2021-01-08 12:19:26,806 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3b90>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 12:22:41,856 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_1,sdp_1 and 56 antennas
+ active_sbs: 20210108-0003
+ script_status: completed
+ Duration: 0:03:15.048809```
+[ 2021-01-08 12:31:10,805 - ERROR] Failed to push to Slack
+[ 2021-01-08 12:31:10,806 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3350>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 12:36:36,055 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_1,sdp_1 and 56 antennas
+ active_sbs: 20210108-0004
+ script_status: completed
+ Duration: 0:04:26.796905```
+[ 2021-01-08 12:45:04,982 - ERROR] Failed to push to Slack
+[ 2021-01-08 12:45:04,982 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3990>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 13:00:53,065 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 56 antennas
+ active_sbs: 20210108-0005
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:20.408160```
+[ 2021-01-08 13:09:22,005 - ERROR] Failed to push to Slack
+[ 2021-01-08 13:09:22,006 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3ad0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 13:35:48,054 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 55 antennas
+ active_sbs: 20210108-0006
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:42.996095```
+[ 2021-01-08 13:44:17,237 - ERROR] Failed to push to Slack
+[ 2021-01-08 13:44:17,238 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3fd0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 14:15:49,467 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 53 antennas
+ active_sbs: 20210108-0009
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: interrupted
+ Duration: 0:05:22.605582```
+[ 2021-01-08 14:24:18,517 - ERROR] Failed to push to Slack
+[ 2021-01-08 14:24:18,518 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3410>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 14:25:11,255 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_1,sdp_1 and 53 antennas
+ active_sbs: 20210108-0010
+ script_status: completed
+ Duration: 0:00:52.735227```
+[ 2021-01-08 14:33:40,437 - ERROR] Failed to push to Slack
+[ 2021-01-08 14:33:40,438 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3ad0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 14:33:40,439 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_1,sdp_1 and 53 antennas
+ active_sbs: 20210108-0012
+ script_status: completed
+ Duration: 0:00:00.000224```
+[ 2021-01-08 14:42:09,621 - ERROR] Failed to push to Slack
+[ 2021-01-08 14:42:09,622 - ERROR] HTTPSConnectionPool(host='slack.com', port=443): Max retries exceeded with url: /api/chat.postMessage (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f36a18d3fd0>: Failed to establish a new connection: [Errno 110] Connection timed out',))
+[ 2021-01-08 18:02:21,859 - INFO]  *subarray_1: Completed:* 
+ ``` script_description:  UHF-band holography --scan-extent 15 --tracktime 5 --cycle-duration 2700 elevation-histogram
+ pool_resources: cbf_1,sdp_1 and 53 antennas
+ active_sbs: 20210108-0011
+ script_name: /home/kat/katsdpscripts/observation/spiral_holography_scan.py
+ script_status: interrupted
+ Duration: 3:20:12.235726```
+[ 2021-01-08 19:13:32,057 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210108-0015
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:32.194041```
+[ 2021-01-08 21:36:37,260 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: GRB 201216C epoch1 
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210107-0017
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 2:21:24.601085```
+[ 2021-01-08 21:55:57,261 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210108-0019
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:31.998366```
+[ 2021-01-09 02:45:30,864 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: LADUMA season1 track L17
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20201121-0001
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 4:47:54.394465```
+[ 2021-01-09 04:05:48,265 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 62 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210107-0021
+ Duration: 0:05:27.595782```
+[ 2021-01-09 09:56:07,889 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /usr/local/bin/astrokat-observe.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 62 antennas
+ script_status: completed
+ script_description: MHONGOOSE J1153-28 setting 3
+ active_sbs: 20201217-0012
+ Duration: 5:48:29.423642```
+[ 2021-01-09 10:19:37,271 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210109-0004
+ Duration: 0:08:20.595533```
+[ 2021-01-09 11:25:11,675 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /usr/local/bin/astrokat-observe.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: ThunderKAT XRB 2021-01-09
+ active_sbs: 20210105-0008
+ Duration: 1:03:49.003882```
+[ 2021-01-09 20:08:37,480 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: GAMA 23 survey Part 9
+ active_sbs: 20201214-0033
+ Duration: 8:41:42.208092```
+[ 2021-01-09 20:40:55,682 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210109-0002
+ Duration: 0:07:40.596524```
+[ 2021-01-09 20:48:51,480 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ active_sbs: 20210109-0005
+ Duration: 0:04:47.799276```
+[ 2021-01-10 02:09:14,687 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /usr/local/bin/astrokat-observe.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: mfs07b
+ active_sbs: 20201209-0053
+ Duration: 5:17:49.604604```
+[ 2021-01-10 03:36:28,696 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: interrupted
+ script_description: MHONGOOSE J1153-28 setting 4
+ active_sbs: 20201217-0013
+ Duration: 0:00:16.001646```
+[ 2021-01-10 10:04:32,095 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ active_sbs: 20210110-0001
+ Duration: 5:46:24.406886```
+[ 2021-01-10 10:43:13,092 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210110-0002
+ Duration: 0:08:19.996203```
+[ 2021-01-10 19:19:51,500 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /usr/local/bin/astrokat-observe.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: GAMA 23 survey Part 10
+ active_sbs: 20201214-0034
+ Duration: 8:34:15.401704```
+[ 2021-01-10 23:15:01,103 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: LSB154-J0340/J0354/J0407
+ active_sbs: 20201218-0033
+ Duration: 3:52:49.396049```
+[ 2021-01-10 23:40:38,913 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210110-0005
+ Duration: 0:05:31.602265```
+[ 2021-01-11 06:06:38,709 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /usr/local/bin/astrokat-observe.py
+ pool_resources: bluse_2,cbf_2,fbfuse_2,sdp_2,tuse_2 and 63 antennas
+ script_status: completed
+ script_description: MHONGOOSE J1153-28  rising 1
+ active_sbs: 20201127-0036
+ Duration: 5:35:29.602888```
+[ 2021-01-11 06:33:14,510 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: cbf_2,fbfuse_2,ptuse_1,ptuse_2,sdp_2,tuse_2 and 30 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210111-0003
+ Duration: 0:06:47.191595```
+[ 2021-01-11 06:33:31,109 - INFO]  *subarray_3: Completed:* 
+ ``` state: inactive
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: cbf_3,ptuse_3,ptuse_4,sdp_3 and 30 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210111-0004
+ Duration: 0:06:51.189270```
+[ 2021-01-11 07:12:19,109 - INFO]  *subarray_3: Completed:* 
+ ``` state: inactive
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ pool_resources: cbf_3,ptuse_3,ptuse_4,sdp_3 and 30 antennas
+ script_status: completed
+ script_description: Sub2: Meertime phase up with flatten bandpass
+ active_sbs: 20210111-0007
+ Duration: 0:06:32.797046```
+[ 2021-01-11 07:12:22,511 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ pool_resources: cbf_2,fbfuse_2,ptuse_1,ptuse_2,sdp_2,tuse_2 and 30 antennas
+ script_status: completed
+ script_description: Sub1: Meertime phase up with flatten bandpass
+ active_sbs: 20210111-0005
+ Duration: 0:06:37.194925```
+[ 2021-01-11 07:20:05,521 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ pool_resources: cbf_2,fbfuse_2,ptuse_1,ptuse_2,sdp_2,tuse_2 and 30 antennas
+ script_status: completed
+ script_description: Sub1: Fluxcal J1939-6342
+ active_sbs: 20210111-0006
+ Duration: 0:04:15.210086```
+[ 2021-01-11 07:20:09,510 - INFO]  *subarray_3: Completed:* 
+ ``` state: inactive
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ pool_resources: cbf_3,ptuse_3,ptuse_4,sdp_3 and 30 antennas
+ script_status: completed
+ script_description: Sub2: Fluxcal J1939-6342
+ active_sbs: 20210111-0008
+ Duration: 0:04:14.400830```
+[ 2021-01-11 12:15:32,315 - INFO]  *subarray_3: Completed:* 
+ ``` state: inactive
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ pool_resources: cbf_3,ptuse_3,ptuse_4,sdp_3 and 30 antennas
+ script_status: completed
+ script_description: MeerTIME TPA: 17-19  LST  Sub2  (ptuse 3.4)  (epoch 10)
+ active_sbs: 20201213-0011
+ Duration: 4:49:38.601843```
+[ 2021-01-11 12:16:12,314 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ pool_resources: cbf_2,fbfuse_2,ptuse_1,ptuse_2,sdp_2,tuse_2 and 30 antennas
+ script_status: completed
+ script_description: MeerTIME TPA: 17-19 LST  Sub1  (ptuse 1.2)  (epoch 10)
+ active_sbs: 20201213-0012
+ Duration: 4:50:18.784885```
+[ 2021-01-11 12:33:42,915 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ pool_resources: cbf_2,fbfuse_2,ptuse_1,ptuse_2,sdp_2,tuse_2 and 30 antennas
+ script_status: completed
+ script_description: Sub1: Meertime phase up with flatten bandpass
+ active_sbs: 20210111-0009
+ Duration: 0:07:58.000072```
+[ 2021-01-11 12:33:45,738 - INFO]  *subarray_3: Completed:* 
+ ``` state: inactive
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ pool_resources: cbf_3,ptuse_3,ptuse_4,sdp_3 and 30 antennas
+ script_status: completed
+ script_description: Sub2: Meertime phase up with flatten bandpass
+ active_sbs: 20210111-0010
+ Duration: 0:08:00.621968```
+[ 2021-01-11 14:26:37,316 - INFO]  *subarray_3: Completed:* 
+ ``` state: inactive
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ pool_resources: cbf_3,ptuse_3,ptuse_4,sdp_3 and 30 antennas
+ script_status: completed
+ script_description: MeerTIME TPA: 19-03 LST  Sub2  (ptuse 3.4)  (epoch 9) part 3 (repeat)
+ active_sbs: 20210106-0011
+ Duration: 1:40:45.200333```
+[ 2021-01-11 14:30:29,316 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ pool_resources: cbf_2,fbfuse_2,ptuse_1,ptuse_2,sdp_2,tuse_2 and 30 antennas
+ script_status: completed
+ script_description: MeerTIME TPA: 19-03 LST  Sub1  (ptuse 1.2)  (epoch 9) part 3 repeat
+ active_sbs: 20210106-0046
+ Duration: 1:44:37.000046```
+[ 2021-01-11 15:15:20,316 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/interferometric_pointing.py
+ pool_resources: cbf_2,sdp_2 and 60 antennas
+ script_status: interrupted
+ script_description: L-band Interferometric Pointing Calibration
+ active_sbs: 20210111-0013
+ Duration: 0:14:16.796272```
+[ 2021-01-11 15:21:56,316 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: cbf_2,sdp_2 and 60 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210111-0014
+ Duration: 0:04:43.798289```
+[ 2021-01-11 18:28:52,118 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/interferometric_pointing.py
+ pool_resources: cbf_2,sdp_2 and 60 antennas
+ script_status: completed
+ script_description: L-band Interferometric Pointing Calibration
+ active_sbs: 20210111-0015
+ Duration: 3:01:57.787639```
+[ 2021-01-11 18:58:16,716 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210111-0017
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:07:17.397885```
+[ 2021-01-11 19:01:20,717 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: LSB151-J0241/J0249
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20201218-0025
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: interrupted
+ Duration: 0:00:15.999879```
+[ 2021-01-11 21:47:11,923 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210111-0018
+ script_status: completed
+ Duration: 2:42:32.606312```
+[ 2021-01-12 02:32:10,527 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: LADUMA season1 track L19
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20201202-0011
+ script_status: completed
+ Duration: 4:43:22.995720```
+[ 2021-01-12 04:09:37,528 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210112-0003
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:44.995768```
+[ 2021-01-12 09:33:25,332 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Galactic Centre Vertical Offset (l=40, -20 b -5)
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20201215-0016
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:02:20.004218```
+[ 2021-01-12 10:26:02,344 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210112-0004
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:57.402115```
+[ 2021-01-12 19:02:14,540 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: GAMA 23 survey Part 7
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20201214-0030
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 8:34:29.404245```
+[ 2021-01-12 19:55:18,541 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210112-0006
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:01.592860```
+[ 2021-01-13 01:50:28,952 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: mfs06b
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20201209-0054
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:19:21.007370```
+[ 2021-01-13 02:12:37,346 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210112-0012
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:07.395768```
+[ 2021-01-13 02:28:42,746 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Meertime phase up with flatten bandpass
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210112-0009
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:07:01.599543```
+[ 2021-01-13 02:38:03,555 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Fluxcal J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210112-0010
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ script_status: completed
+ Duration: 0:04:20.204776```
+[ 2021-01-13 04:29:03,350 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MeerTime Relbin L-band 2021-01
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210106-0036
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ script_status: completed
+ Duration: 1:47:47.002740```
+[ 2021-01-13 07:31:36,354 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MeerTIME MSP (2020-12-17) census part 3
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210102-0013
+ script_status: completed
+ Duration: 3:00:18.404489```
+[ 2021-01-13 08:15:58,752 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 16 antennas
+ active_sbs: 20210113-0001
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:04:39.796260```
+[ 2021-01-13 11:37:05,354 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 53 antennas
+ active_sbs: 20210113-0003
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:31.396940```
+[ 2021-01-13 12:48:06,762 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM - track on J1644-4559
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 53 antennas
+ active_sbs: 20210113-0002
+ script_name: /home/kat/katsdpscripts/observation/track.py
+ script_status: interrupted
+ Duration: 1:09:36.207001```
+[ 2021-01-13 13:59:57,158 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0007
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:42.999403```
+[ 2021-01-13 15:02:56,157 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: SE-ENG 32K calibrator track
+ pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0006
+ script_name: /home/kat/usersnfs/mgouws/observation/analysis_track.py
+ script_status: completed
+ Duration: 1:00:21.600555```
+[ 2021-01-13 15:26:54,559 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0011
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:11.390907```
+[ 2021-01-13 15:28:50,558 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: SE-ENG 32K calibrator track
+ pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0008
+ script_name: /home/kat/usersnfs/mgouws/observation/analysis_track.py
+ script_status: interrupted
+ Duration: 0:00:15.999014```
+[ 2021-01-13 15:37:07,158 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0012
+ script_status: interrupted
+ Duration: 0:02:09.798601```
+[ 2021-01-13 15:47:42,758 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0014
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:28.199664```
+[ 2021-01-13 15:50:18,758 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0016
+ script_status: interrupted
+ Duration: 0:00:15.998612```
+[ 2021-01-13 15:53:15,760 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0017
+ script_status: interrupted
+ Duration: 0:00:16.200980```
+[ 2021-01-13 16:03:59,958 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0018
+ script_status: interrupted
+ Duration: 0:00:16.200029```
+[ 2021-01-13 16:41:45,159 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0019
+ script_status: completed
+ Duration: 0:06:19.000572```
+[ 2021-01-13 17:43:43,160 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: SE-ENG 32K calibrator track
+ pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0015
+ script_name: /home/kat/usersnfs/mgouws/observation/analysis_track.py
+ script_status: completed
+ Duration: 1:00:20.801221```
+[ 2021-01-13 19:19:31,362 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: SE-ENG 32K calibrator track
+ pool_resources: cbf_dev_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0009
+ script_name: /home/kat/usersnfs/mgouws/observation/analysis_track.py
+ script_status: completed
+ Duration: 1:00:25.590369```
+[ 2021-01-13 19:50:09,963 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210113-0021
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:32.198266```
+[ 2021-01-14 01:23:38,567 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: mfs13b
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20201209-0055
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:17:29.004768```
+[ 2021-01-14 01:49:19,775 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0029
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:57.603787```
+[ 2021-01-14 04:12:19,770 - INFO]  *subarray_1: Completed:* 
+ ``` script_description:  L-band holography tracktime 5 elevation histogram
+ pool_resources: cbf_1,sdp_1 and 62 antennas
+ active_sbs: 20210113-0030
+ script_name: /home/kat/katsdpscripts/observation/spiral_holography_scan.py
+ script_status: interrupted
+ Duration: 2:21:19.995342```
+[ 2021-01-14 04:38:57,968 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0002
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:55.791040```
+[ 2021-01-14 07:26:29,971 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: LSB124-J1522/J1559
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20201217-0020
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 2:29:26.001463```
+[ 2021-01-14 08:17:37,972 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0003
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:15.999303```
+[ 2021-01-14 08:33:28,372 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0004
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: completed
+ Duration: 0:06:03.399206```
+[ 2021-01-14 08:42:47,573 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0005
+ script_status: completed
+ Duration: 0:06:01.201151```
+[ 2021-01-14 08:51:44,372 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0006
+ script_status: completed
+ Duration: 0:06:05.800040```
+[ 2021-01-14 09:05:53,773 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0007
+ script_status: completed
+ Duration: 0:06:06.385601```
+[ 2021-01-14 09:16:40,973 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0008
+ script_status: completed
+ Duration: 0:05:57.800384```
+[ 2021-01-14 09:27:54,373 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0009
+ script_status: completed
+ Duration: 0:06:01.399373```
+[ 2021-01-14 09:39:45,575 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0010
+ script_status: completed
+ Duration: 0:06:07.192947```
+[ 2021-01-14 09:48:13,973 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0011
+ script_status: completed
+ Duration: 0:05:57.599179```
+[ 2021-01-14 10:09:15,575 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM SMC Pulsar Search Survey Pointings 1 and 2, rising option
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210104-0008
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: interrupted
+ Duration: 0:08:12.801205```
+[ 2021-01-14 14:20:54,378 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM SMC Pulsar Search Survey Pointings 1 and 2, rising option repeat
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0012
+ script_status: completed
+ Duration: 4:00:50.003134```
+[ 2021-01-14 14:30:17,579 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM phase up with flatten bandpass
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210114-0013
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:08:03.991462```
+[ 2021-01-14 15:38:40,379 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM Globular Clusters: NGC104 (aka 47Tuc) (epoch 4/8) repeat
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_3,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210107-0018
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ script_status: completed
+ Duration: 1:02:24.197038```
+[ 2021-01-14 16:01:05,586 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 62 antennas
+ active_sbs: 20210114-0015
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:32.802375```
+[ 2021-01-14 18:37:36,982 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: GRB 201216C epoch2
+ pool_resources: cbf_1,sdp_1 and 62 antennas
+ active_sbs: 20210111-0016
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 2:21:29.202918```
+[ 2021-01-14 19:06:57,187 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0018
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:50.400464```
+[ 2021-01-14 19:15:44,189 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0019
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: completed
+ Duration: 0:07:10.406221```
+[ 2021-01-14 19:24:17,586 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0020
+ script_status: completed
+ Duration: 0:06:54.004265```
+[ 2021-01-14 19:32:46,390 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0021
+ script_status: completed
+ Duration: 0:06:52.408119```
+[ 2021-01-14 19:41:15,785 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0022
+ script_status: completed
+ Duration: 0:06:49.400209```
+[ 2021-01-14 19:49:54,394 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0023
+ script_status: completed
+ Duration: 0:06:52.811462```
+[ 2021-01-14 19:59:24,390 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0024
+ script_status: completed
+ Duration: 0:06:48.805135```
+[ 2021-01-14 20:09:15,783 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210114-0025
+ script_status: completed
+ Duration: 0:06:51.197560```
+[ 2021-01-15 01:49:04,196 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: mfs05b
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20201209-0056
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:18:00.211198```
+[ 2021-01-15 02:32:54,588 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 62 antennas
+ active_sbs: 20210114-0027
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:30.395893```
+[ 2021-01-15 02:39:15,988 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_1,sdp_1 and 62 antennas
+ active_sbs: 20210115-0003
+ script_status: completed
+ Duration: 0:04:41.188450```
+[ 2021-01-15 05:42:26,790 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: UHF-band Interferometric Pointing Calibration
+ pool_resources: cbf_1,sdp_1 and 62 antennas
+ active_sbs: 20210115-0002
+ script_name: /home/kat/katsdpscripts/observation/interferometric_pointing.py
+ script_status: completed
+ Duration: 3:01:43.801248```
+[ 2021-01-15 08:50:13,795 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,sdp_1,tuse_1 and 59 antennas
+ active_sbs: 20210115-0007
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:51.195082```
+[ 2021-01-15 08:58:39,593 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Meertime phase up with flatten bandpass
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,sdp_1,tuse_1 and 59 antennas
+ active_sbs: 20210115-0005
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:06:57.392977```
+[ 2021-01-15 09:05:09,596 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Fluxcal J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_1,sdp_1,tuse_1 and 59 antennas
+ active_sbs: 20210115-0006
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ script_status: completed
+ Duration: 0:04:18.802366```

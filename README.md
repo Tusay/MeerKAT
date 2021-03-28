@@ -1,6 +1,8 @@
 # MeerKAT
 A repository for my work on MeerKAT
 
-Please take a look at the jupyter-notebook file. It's all explained in there.
+The jupyter-notebooks contain processing of the MeerKAT monitor log output files.
 
-The log files I processed are also provided here.
+The highest number notebook is the newest and best representation of the data and analysis.
+
+The log files I processed are also provided here as they are required in the same directory for running the notebook code.

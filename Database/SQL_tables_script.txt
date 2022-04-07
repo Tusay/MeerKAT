@@ -1,0 +1,72 @@
+create table targets(
+	id integer primary key autoincrement,
+	name TEXT
+	);
+create table observations(
+	id integer primary key autoincrement,
+	target_id integer,
+	MJD real,
+	Duration real,
+	start_RA real,
+	start_Dec real,
+	end_RA real,
+	end_Dec real,
+	Total_Hits integer,
+	Obs_Type TEXT,
+	foreign key (target_id)
+	references targets (id)
+	);
+create table beams(
+	id integer primary key autoincrement,
+	target_id integer,
+	observation_id integer,
+	beam_RA real,
+	beam_Dec real,
+	foreign key (target_id)
+	references targets (id),
+	foreign key (observation_id)
+	references observations (id)
+	);
+create table hits(
+	id integer primary key autoincrement,
+	postage_stamp_id integer,
+	beam_id integer,
+	target_id integer,
+	f_start real,
+	f_stop real,
+	snr real,
+	MJD real,
+	foreign key (postage_stamp_id)
+	references postage_stamps (id),
+	foreign key (beam_id)
+	references beams (id),
+	foreign key (target_id)
+	references targets (id)
+	);
+create table postage_stamps(
+	id integer primary key autoincrement,
+	observation_id integer,
+	f_start real,
+	f_stop real,
+	MJD real,
+	filepath TEXT,
+	foreign key (observation_id)
+	references observations (id)
+	);
+create table events(
+	id integer primary key autoincrement,
+	postage_stamp_id integer,
+	beam_id integer,
+	target_id integer,
+	reason TEXT,
+	f_start real,
+	f_stop real,
+	snr real,
+	MJD real,
+	foreign key (postage_stamp_id)
+	references postage_stamps (id),
+	foreign key (beam_id)
+	references beams (id),
+	foreign key (target_id)
+	references targets (id)
+	);

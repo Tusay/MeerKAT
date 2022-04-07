@@ -1,0 +1,1119 @@
+[ 2021-01-22 12:45:52,547 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_3,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210122-0014
+ script_status: completed
+ Duration: 2:00:42.202827```
+[ 2021-01-22 13:03:26,742 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: cbf_2,sdp_2 and 6 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210122-0015
+ Duration: 0:05:30.199962```
+[ 2021-01-22 13:23:50,942 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/track.py
+ pool_resources: cbf_2,sdp_2 and 6 antennas
+ script_status: completed
+ script_description: three calibrator imaging
+ active_sbs: 20210118-0008
+ Duration: 0:12:26.399350```
+[ 2021-01-22 13:53:00,343 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM Globular Clusters: M30 (epoch 3/4, UHF)
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_3,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210108-0014
+ script_status: completed
+ Duration: 1:01:43.198992```
+[ 2021-01-22 14:58:08,353 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM Globular Clusters: NGC104 (aka 47Tuc) (epoch 5/8, UHF) 
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_3,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210108-0013
+ script_status: completed
+ Duration: 1:01:50.810230```
+[ 2021-01-22 15:42:27,543 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0021
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:31.594950```
+[ 2021-01-22 16:07:32,945 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: three calibrator imaging
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0022
+ script_name: /home/kat/katsdpscripts/observation/track.py
+ script_status: interrupted
+ Duration: 0:23:38.400724```
+[ 2021-01-22 16:19:23,144 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0023
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: completed
+ Duration: 0:09:21.999375```
+[ 2021-01-22 16:30:07,943 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0024
+ script_status: completed
+ Duration: 0:09:11.399428```
+[ 2021-01-22 16:40:38,960 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0025
+ script_status: completed
+ Duration: 0:09:01.615295```
+[ 2021-01-22 16:51:16,344 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0026
+ script_status: completed
+ Duration: 0:09:06.400326```
+[ 2021-01-22 17:01:52,945 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0027
+ script_status: completed
+ Duration: 0:09:03.001220```
+[ 2021-01-22 17:12:35,344 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0028
+ script_status: completed
+ Duration: 0:09:07.399562```
+[ 2021-01-22 17:23:00,946 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210122-0029
+ script_status: completed
+ Duration: 0:08:49.594977```
+[ 2021-01-22 23:31:39,350 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: LADUMA season1 track L29
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210118-0034
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 6:00:33.805644```
+[ 2021-01-22 23:57:56,950 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210122-0030
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:00.584376```
+[ 2021-01-23 05:40:37,956 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MHONGOOSE J1153-28  rising 3
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20201203-0019
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:34:27.402872```
+[ 2021-01-23 06:24:08,756 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_4,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210123-0001
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:55.376811```
+[ 2021-01-23 06:32:12,357 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_4,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210123-0004
+ script_status: completed
+ Duration: 0:04:18.595172```
+[ 2021-01-23 06:40:37,958 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Meertime phase up with flatten bandpass
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_4,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210123-0002
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:06:58.801605```
+[ 2021-01-23 06:46:39,556 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Fluxcal J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_4,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210123-0003
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ script_status: completed
+ Duration: 0:04:20.800410```
+[ 2021-01-23 11:11:01,159 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MeerTIME MSP regular  (2021 epoch 2) part 2
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_4,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210113-0025
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ script_status: completed
+ Duration: 4:22:39.602694```
+[ 2021-01-23 11:29:30,159 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0005
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:16.395228```
+[ 2021-01-23 12:35:40,161 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/track.py
+ pool_resources: cbf_2,sdp_2 and 1 antennas
+ script_status: completed
+ script_description: three calibrator imaging
+ active_sbs: 20210122-0018
+ Duration: 0:12:05.196899```
+[ 2021-01-23 12:59:55,770 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ pool_resources: cbf_2,sdp_2 and 1 antennas
+ script_status: completed
+ active_sbs: 20210123-0006
+ Duration: 0:12:03.208894```
+[ 2021-01-23 16:38:05,365 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Galactic Centre Vertical Offset (l=20, -20 b -5)
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20201215-0013
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:07:00.204895```
+[ 2021-01-23 17:10:02,770 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0010
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:09.201468```
+[ 2021-01-23 17:16:22,765 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0013
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: completed
+ Duration: 0:04:52.994551```
+[ 2021-01-23 17:25:10,164 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0014
+ script_status: completed
+ Duration: 0:07:25.999727```
+[ 2021-01-23 17:31:54,565 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0015
+ script_status: completed
+ Duration: 0:05:24.399691```
+[ 2021-01-23 17:38:34,766 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0016
+ script_status: completed
+ Duration: 0:05:24.600268```
+[ 2021-01-23 17:45:29,366 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0017
+ script_status: completed
+ Duration: 0:05:25.800852```
+[ 2021-01-23 17:52:13,565 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0019
+ script_status: completed
+ Duration: 0:05:25.398887```
+[ 2021-01-23 17:59:03,365 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0020
+ script_status: completed
+ Duration: 0:05:24.799215```
+[ 2021-01-23 18:05:51,966 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0018
+ script_status: completed
+ Duration: 0:05:25.600731```
+[ 2021-01-23 18:12:30,571 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0021
+ script_status: completed
+ Duration: 0:05:18.404790```
+[ 2021-01-23 18:19:08,767 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0022
+ script_status: completed
+ Duration: 0:05:15.401930```
+[ 2021-01-23 18:25:53,966 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0023
+ script_status: completed
+ Duration: 0:05:19.800314```
+[ 2021-01-23 18:32:32,366 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0024
+ script_status: completed
+ Duration: 0:05:18.399415```
+[ 2021-01-23 18:39:13,366 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0025
+ script_status: completed
+ Duration: 0:05:20.389986```
+[ 2021-01-23 18:46:05,366 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0026
+ script_status: completed
+ Duration: 0:05:29.800486```
+[ 2021-01-23 18:57:52,768 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Meertime phase up with flatten bandpass
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0011
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:06:55.001373```
+[ 2021-01-23 19:06:11,566 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Fluxcal J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210123-0012
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ script_status: completed
+ Duration: 0:04:55.187759```
+[ 2021-01-23 19:54:53,967 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MeerTIME J0737-3039A epoch 20 (UHF)
+ pool_resources: bluse_1,cbf_1,fbfuse_1,ptuse_2,ptuse_4,sdp_1,tuse_1 and 61 antennas
+ active_sbs: 20210119-0027
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ script_status: interrupted
+ Duration: 0:43:40.200758```
+[ 2021-01-23 20:25:53,973 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 64 antennas
+ active_sbs: 20210123-0029
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:07.794256```
+[ 2021-01-24 02:24:31,783 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MHONGOOSE J0516-37 setting 3
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 64 antennas
+ active_sbs: 20210121-0034
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:53:25.808200```
+[ 2021-01-24 02:57:34,975 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 63 antennas
+ active_sbs: 20210124-0001
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:19.188355```
+[ 2021-01-24 03:06:58,575 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_1,sdp_1 and 63 antennas
+ active_sbs: 20210124-0002
+ script_status: completed
+ Duration: 0:05:29.999479```
+[ 2021-01-24 06:53:14,578 - INFO]  *subarray_1: Completed:* 
+ ``` script_description:  UHF-band holography --scan-extent 15 --tracktime 5 --cycle-duration 2700 elevation-histogram
+ pool_resources: cbf_1,sdp_1 and 63 antennas
+ active_sbs: 20210124-0003
+ script_name: /home/kat/katsdpscripts/observation/spiral_holography_scan.py
+ script_status: interrupted
+ Duration: 3:43:57.603157```
+[ 2021-01-24 07:25:04,782 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210124-0004
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:54.596152```
+[ 2021-01-24 12:55:59,981 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Galactic Centre Vertical Offset (l=45, 5 b 20)
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20201215-0017
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:09:49.803000```
+[ 2021-01-24 13:19:19,782 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210124-0015
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:05.389985```
+[ 2021-01-24 14:14:03,586 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: ThunderKAT XRB 2021-01-23
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 62 antennas
+ active_sbs: 20210121-0047
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 0:42:59.201371```
+[ 2021-01-24 14:49:54,984 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210124-0019
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:57.994117```
+[ 2021-01-24 16:52:27,587 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: three calibrator imaging
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210124-0020
+ script_name: /home/kat/katsdpscripts/observation/track.py
+ script_status: completed
+ Duration: 2:00:49.003320```
+[ 2021-01-24 16:54:58,585 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210124-0021
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: interrupted
+ Duration: 0:00:15.999556```
+[ 2021-01-24 16:59:39,186 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210124-0022
+ script_status: interrupted
+ Duration: 0:00:16.200955```
+[ 2021-01-24 17:01:54,184 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210124-0023
+ script_status: interrupted
+ Duration: 0:00:15.999752```
+[ 2021-01-24 17:12:45,587 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210124-0024
+ script_status: interrupted
+ Duration: 0:01:45.000540```
+[ 2021-01-24 23:20:48,191 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: LADUMA season1 track L28
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 63 antennas
+ active_sbs: 20210118-0033
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 6:00:40.402633```
+[ 2021-01-24 23:49:14,193 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 64 antennas
+ active_sbs: 20210124-0038
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:54.798583```
+[ 2021-01-25 05:35:32,001 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MHONGOOSE J1153-28  rising 4
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 64 antennas
+ active_sbs: 20201203-0020
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:34:24.808934```
+[ 2021-01-25 06:17:48,196 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,ptuse_2,sdp_1 and 58 antennas
+ active_sbs: 20210125-0001
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:56.187415```
+[ 2021-01-25 06:26:14,397 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: UHF Phase up with flatten bandpass
+ pool_resources: cbf_1,ptuse_2,sdp_1 and 58 antennas
+ active_sbs: 20210121-0057
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:06:55.798336```
+[ 2021-01-25 08:43:58,399 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: COM-20191129-MG-01 UHF 1K TAB coherency
+ pool_resources: cbf_1,ptuse_2,sdp_1 and 58 antennas
+ active_sbs: 20210121-0006
+ script_name: /home/kat/usersnfs/mgeyer/katusescripts/ptuse/beamform_coherency.py
+ script_status: completed
+ Duration: 2:16:06.393730```
+[ 2021-01-25 09:18:39,204 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210125-0005
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:39.603436```
+[ 2021-01-25 09:38:43,001 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM phase up with flatten bandpass
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210125-0003
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:07:46.200784```
+[ 2021-01-25 13:49:40,404 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: TRAPUM Globular Clusters: NGC6342 (epoch 1/1, L-band)
+ pool_resources: apsuse_1,cbf_1,fbfuse_1,ptuse_1,ptuse_4,sdp_1,tuse_1 and 57 antennas
+ active_sbs: 20210121-0061
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ script_status: completed
+ Duration: 4:03:22.798086```
+[ 2021-01-25 14:27:21,803 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210125-0009
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:21.992410```
+[ 2021-01-25 18:32:16,807 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MIGHTEE CDFS_8_7 (4H, RUN2)
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210124-0026
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 4:01:13.603829```
+[ 2021-01-25 19:40:59,408 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210125-0011
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: completed
+ Duration: 1:05:33.399157```
+[ 2021-01-25 20:18:57,010 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,fbfuse_1,ptuse_1,ptuse_2,sdp_1,tuse_1 and 30 antennas
+ active_sbs: 20210125-0013
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:04:39.395896```
+[ 2021-01-25 20:24:37,408 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ pool_resources: cbf_2,ptuse_3,ptuse_4,sdp_2 and 29 antennas
+ script_status: completed
+ script_description: Delaycal
+ active_sbs: 20210125-0015
+ Duration: 0:04:45.396279```
+[ 2021-01-25 20:37:13,210 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Sub1: Meertime phase up with flatten bandpass
+ pool_resources: cbf_1,fbfuse_1,ptuse_1,ptuse_2,sdp_1,tuse_1 and 30 antennas
+ active_sbs: 20210125-0016
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ script_status: completed
+ Duration: 0:06:29.596756```
+[ 2021-01-25 20:37:18,209 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/katsdpscripts/observation/bf_phaseup.py
+ pool_resources: cbf_2,ptuse_3,ptuse_4,sdp_2 and 29 antennas
+ script_status: completed
+ script_description: Sub2: Meertime phase up with flatten bandpass
+ active_sbs: 20210125-0018
+ Duration: 0:06:34.596053```
+[ 2021-01-25 20:45:02,410 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ pool_resources: cbf_2,ptuse_3,ptuse_4,sdp_2 and 29 antennas
+ script_status: completed
+ script_description: Sub2: Fluxcal J0408-6545
+ active_sbs: 20210125-0019
+ Duration: 0:04:15.388513```
+[ 2021-01-25 20:45:02,825 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Sub1: Fluxcal J0408-6545
+ pool_resources: cbf_1,fbfuse_1,ptuse_1,ptuse_2,sdp_1,tuse_1 and 30 antennas
+ active_sbs: 20210125-0017
+ script_name: /home/kat/usersnfs/sarah/beamform-multi-cal/katusescripts/ptuse/beamform_multi_cal.py
+ script_status: completed
+ Duration: 0:04:15.803966```
+[ 2021-01-26 02:03:32,214 - INFO]  *subarray_2: Completed:* 
+ ``` state: active
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ pool_resources: cbf_2,ptuse_3,ptuse_4,sdp_2 and 29 antennas
+ script_status: completed
+ script_description: MeerTIME TPA: 03-15 LST Sub2  (ptuse 3.4)  (epoch 11)
+ active_sbs: 20210119-0025
+ Duration: 5:12:40.402666```
+[ 2021-01-26 02:05:37,220 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MeerTIME TPA: 03-15 LST  Sub1  (ptuse 1.2)  (epoch 11)
+ pool_resources: cbf_1,fbfuse_1,ptuse_1,ptuse_2,sdp_1,tuse_1 and 30 antennas
+ active_sbs: 20210119-0022
+ script_name: /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py
+ script_status: completed
+ Duration: 5:14:45.408387```
+[ 2021-01-26 03:14:07,015 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210122-0017
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:36.598676```
+[ 2021-01-26 03:20:31,226 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210126-0003
+ script_status: interrupted
+ Duration: 0:04:24.003197```
+[ 2021-01-26 03:24:42,615 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210126-0004
+ script_status: interrupted
+ Duration: 0:01:31.397936```
+[ 2021-01-26 03:31:03,615 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210126-0005
+ script_status: completed
+ Duration: 0:04:37.791591```
+[ 2021-01-26 03:38:32,415 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J0408-6545
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210126-0002
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: completed
+ Duration: 0:04:48.190849```
+[ 2021-01-26 04:05:23,216 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210126-0007
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:55.395675```
+[ 2021-01-26 06:53:32,228 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: USB7-J1620
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 60 antennas
+ active_sbs: 20210124-0007
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 2:36:31.212420```
+[ 2021-01-26 08:40:13,229 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 57 antennas
+ active_sbs: 20210126-0010
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:05:41.796174```
+[ 2021-01-26 10:28:37,623 - INFO]  *subarray_1: Completed:* 
+ ``` script_description:  L-band holography tracktime 5 elevation histogram
+ pool_resources: cbf_1,sdp_1 and 57 antennas
+ active_sbs: 20210126-0011
+ script_name: /home/kat/katsdpscripts/observation/spiral_holography_scan.py
+ script_status: interrupted
+ Duration: 1:46:59.402007```
+[ 2021-01-26 13:58:14,425 - INFO]  *subarray_1: Completed:* 
+ ``` pool_resources: cbf_1,sdp_1 and 57 antennas
+ active_sbs: 20210126-0012
+ script_status: interrupted
+ Duration: 3:26:40.001876```
+[ 2021-01-26 14:34:39,025 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210126-0014
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:29.593598```
+[ 2021-01-26 17:02:00,828 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: GRB 201216C epoch3
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210121-0048
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 2:20:59.402875```
+[ 2021-01-26 23:12:37,032 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: LADUMA season1 track L30
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 58 antennas
+ active_sbs: 20210118-0035
+ script_status: completed
+ Duration: 6:00:30.605022```
+[ 2021-01-26 23:44:31,838 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 64 antennas
+ active_sbs: 20210126-0009
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:03.802065```
+[ 2021-01-27 05:21:08,043 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: MHONGOOSE J1153-28  rising 5
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 64 antennas
+ active_sbs: 20201203-0021
+ script_name: /usr/local/bin/astrokat-observe.py
+ script_status: completed
+ Duration: 5:34:35.603529```
+[ 2021-01-27 05:32:37,438 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: pointing check on J1939-6342
+ pool_resources: bluse_1,cbf_1,fbfuse_1,sdp_1,tuse_1 and 64 antennas
+ active_sbs: 20210126-0020
+ script_name: /home/kat/katsdpscripts/observation/reference_pointing.py
+ script_status: completed
+ Duration: 0:09:29.800196```
+[ 2021-01-27 06:07:37,638 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0001
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:04:42.988288```
+[ 2021-01-27 06:29:52,438 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: RTS: 3.1.2.1 S-band Interferometric Phase Stability PKS1934-63 S3
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0003
+ script_name: /home/kat/katsdpscripts/RTS/2.9-RFI/track.py
+ script_status: completed
+ Duration: 0:15:15.597835```
+[ 2021-01-27 06:46:54,838 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0004
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:04:40.194350```
+[ 2021-01-27 07:06:58,238 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: RTS: 3.1.2.1 S-band Interferometric Phase Stability PKS1934-63 S1
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0005
+ script_name: /home/kat/katsdpscripts/RTS/2.9-RFI/track.py
+ script_status: completed
+ Duration: 0:15:15.998279```
+[ 2021-01-27 07:52:31,039 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: RTS: S-band Interferometric Pointing Calibration 
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0006
+ script_name: /home/kat/katsdpscripts/observation/interferometric_pointing.py
+ script_status: interrupted
+ Duration: 0:44:36.999526```
+[ 2021-01-27 08:06:13,242 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0008
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:06:24.997508```
+[ 2021-01-27 08:22:22,439 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: RTS: 3.1.2.1 S-band Interferometric Phase Stability PKS1934-63 S0
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0007
+ script_name: /home/kat/katsdpscripts/RTS/2.9-RFI/track.py
+ script_status: completed
+ Duration: 0:15:13.597659```
+[ 2021-01-27 08:39:37,040 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: Delaycal
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0010
+ script_name: /home/kat/katsdpscripts/observation/calibrate_delays.py
+ script_status: completed
+ Duration: 0:04:41.596265```
+[ 2021-01-27 08:55:46,241 - INFO]  *subarray_1: Completed:* 
+ ``` script_description: RTS: 3.1.2.1 S-band Interferometric Phase Stability PKS1934-63 S2
+ pool_resources: cbf_1,sdp_1 and 24 antennas
+ active_sbs: 20210127-0011
+ script_name: /home/kat/katsdpscripts/RTS/2.9-RFI/track.py
+ script_status: completed
+ Duration: 0:15:15.000190```
+[ 2021-01-27 09:10:04,620 - WARNING] Websocket server disconnected!
+[ 2021-01-27 09:10:04,624 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:10:04,625 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:10:19,635 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:10:19,635 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:10:34,652 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:10:34,652 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:10:49,656 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:10:49,657 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:11:04,671 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:11:04,671 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:11:19,688 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:11:19,688 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:11:34,704 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:11:34,705 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:11:49,722 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:11:49,722 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:12:04,738 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:12:04,739 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:12:19,752 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:12:19,752 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:12:34,769 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:12:34,769 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:12:49,784 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:12:49,784 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:13:04,801 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:13:04,801 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:13:19,815 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:13:19,816 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:13:34,833 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:13:34,833 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:13:49,849 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:13:49,849 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:14:04,868 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:14:04,868 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:14:19,884 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:14:19,884 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:14:34,901 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:14:34,901 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:14:49,915 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:14:49,915 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:15:04,929 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:15:04,930 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:15:19,947 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:15:19,947 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:15:34,964 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:15:34,964 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:15:49,973 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:15:49,974 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:16:04,991 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:16:04,991 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:16:20,008 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:16:20,008 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:16:35,025 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:16:35,026 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:16:50,043 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:16:50,043 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:17:05,060 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:17:05,061 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:17:20,078 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:17:20,078 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:17:35,096 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:17:35,096 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:17:50,115 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:17:50,115 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:18:05,132 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:18:05,133 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:18:20,150 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:18:20,151 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:18:35,168 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:18:35,168 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:18:50,185 - ERROR] Could not connect websocket to ws://10.97.1.14/katmetadata/subarray-1/custom/websocket
+Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 471, in _connect
+    connect_timeout=WS_CONNECT_TIMEOUT)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 1055, in run
+    value = future.result()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 238, in result
+    raise_exc_info(self._exc_info)
+  File "<string>", line 3, in raise_exc_info
+HTTPError: HTTP 502: Bad Gateway
+[ 2021-01-27 09:18:50,185 - INFO] Retrying connection in 15 seconds...
+[ 2021-01-27 09:19:05,217 - INFO] Resending JSONRPCRequest <class 'katportalclient.request.JSONRPCRequest'>: id: caf44c8a1b, method: subscribe, params: ['namespace_bc734a5c-4ac2-416c-b2d0-c71edc675ee2', None]
+[ 2021-01-27 09:19:05,257 - INFO] Resent JSONRPCRequest, with result: 1
+[ 2021-01-27 09:19:05,257 - INFO] Resending JSONRPCRequest <class 'katportalclient.request.JSONRPCRequest'>: id: db5ff2edc7, method: set_sampling_strategies, params: ['namespace_bc734a5c-4ac2-416c-b2d0-c71edc675ee2', [u'subarray_1_state'], 'event', False]
+[ 2021-01-27 09:19:05,659 - INFO] Resent JSONRPCRequest, with result: {u'subarray_1_state': {u'info': u'event', u'success': True}}
+[ 2021-01-27 09:19:05,659 - INFO] Resending JSONRPCRequest <class 'katportalclient.request.JSONRPCRequest'>: id: fc9352bd17, method: set_sampling_strategies, params: ['namespace_bc734a5c-4ac2-416c-b2d0-c71edc675ee2', [u'subarray_2_state'], 'event', False]
+[ 2021-01-27 09:19:06,872 - INFO] Resent JSONRPCRequest, with result: {u'subarray_2_state': {u'info': u'event', u'success': True}}
+[ 2021-01-27 09:19:06,873 - INFO] Resending JSONRPCRequest <class 'katportalclient.request.JSONRPCRequest'>: id: 23efa91fd7, method: set_sampling_strategies, params: ['namespace_bc734a5c-4ac2-416c-b2d0-c71edc675ee2', [u'subarray_3_state'], 'event', False]
+[ 2021-01-27 09:19:07,236 - INFO] Resent JSONRPCRequest, with result: {u'subarray_3_state': {u'info': u'event', u'success': True}}
+[ 2021-01-27 09:19:07,236 - INFO] Resending JSONRPCRequest <class 'katportalclient.request.JSONRPCRequest'>: id: 922cdad5ea, method: set_sampling_strategies, params: ['namespace_bc734a5c-4ac2-416c-b2d0-c71edc675ee2', [u'subarray_4_state'], 'event', False]
+[ 2021-01-27 09:19:09,961 - INFO] Resent JSONRPCRequest, with result: {u'subarray_4_state': {u'info': u'event', u'success': True}}
+[ 2021-01-27 09:19:09,962 - INFO] Resending JSONRPCRequest <class 'katportalclient.request.JSONRPCRequest'>: id: d33914bea3, method: set_sampling_strategies, params: ['namespace_bc734a5c-4ac2-416c-b2d0-c71edc675ee2', [u'subarray_5_state'], 'event', False]
+[ 2021-01-27 09:19:11,131 - INFO] Unsubscribed from: subarray_2_script_description
+[ 2021-01-27 09:44:44,865 - ERROR] Future exception was never retrieved: Traceback (most recent call last):
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/gen.py", line 292, in wrapper
+    result = func(*args, **kwargs)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/katportalclient-0.2.1-py2.7.egg/katportalclient/client.py", line 683, in _process_json_rpc_message
+    future.set_result(error)
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 279, in set_result
+    self._set_done()
+  File "/opt/virtualenv/bluse/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg/tornado/concurrent.py", line 323, in _set_done
+    for cb in self._callbacks:
+TypeError: 'NoneType' object is not iterable
+[ 2021-01-27 09:44:48,624 - INFO] Unsubscribed from: subarray_1_script_description
+[ 2021-01-27 09:44:52,031 - INFO] Unsubscribed from: subarray_1_pool_resources
+[ 2021-01-27 09:44:55,566 - INFO] Unsubscribed from: subarray_1_script_name
+[ 2021-01-27 09:44:58,845 - INFO] Unsubscribed from: subarray_1_active_sbs
+[ 2021-01-27 09:45:02,207 - INFO] Unsubscribed from: subarray_1_script_status
+[ 2021-01-27 09:55:02,204 - WARNING] Websocket server disconnected!
